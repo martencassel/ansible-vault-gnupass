@@ -237,3 +237,4 @@ ansible-vault
 - If `pass` isn’t initialized with your key, it won’t find the secret.
 - If the helper script isn’t executable, Ansible can’t call it.
 
+![Vault pass flow](./vault-pass-flow.png)
